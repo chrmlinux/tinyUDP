@@ -1,0 +1,16 @@
+tinyUDP 	KEYWORD1	tinyUDP
+tudp 		KEYWORD1 	tinyUDP
+
+begin							KEYWORD2
+end							KEYWORD2
+recv							KEYWORD2
+send							KEYWORD2
+update							KEYWORD2
+get							KEYWORD2
+put							KEYWORD2
+setResult							KEYWORD2
+delay							KEYWORD2
+isRecv							KEYWORD2
+getRecvSize							KEYWORD2
+getArySize							KEYWORD2
+dump							KEYWORD2
