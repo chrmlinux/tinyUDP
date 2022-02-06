@@ -3,8 +3,7 @@
 // program name   : tinyUDP.cpp
 // date/author    : 2022/01/25  @chrmlinux03
 // update/author  : 2022/01/27  @chrmlinux03
-// update/author  : 2022/02/06  @chrmlinux03 v0.0.2
-// version        : 0.0.2
+// version        : 0.1.0
 //
 //====================================================
 
@@ -198,7 +197,7 @@ uint16_t tinyUDP::recv(void)
       }
     } else {
       memcpy(&_ary[_recvSize], buf, cnt);
-			if (_recvSize < len) _recvSize += cnt;
+      if (_recvSize < len) _recvSize += cnt;
     }
   }
   delay(1);
