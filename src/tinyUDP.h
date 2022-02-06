@@ -3,7 +3,7 @@
 // program name   : tinyUDP.h
 // date/author    : 2022/01/25  @chrmlinux03
 // update/author  : 2022/01/27  @chrmlinux03
-// version        : 0.1.0
+// version        : 0.0.2
 //
 //====================================================
 
